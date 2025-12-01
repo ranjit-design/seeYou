@@ -2,6 +2,10 @@
 /node_modules
 /.pnp
 .pnp.js
+node_modules/
+.next/
+.env
+backend/
 
 # testing
 /coverage
@@ -40,11 +44,7 @@ next-env.d.ts
 *.njsproj
 *.sln
 *.sw?
-node_modules/
-.next/
-.env
-/backend
-backend/
+
 
 
 # Local Netlify folder
