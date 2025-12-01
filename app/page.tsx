@@ -55,7 +55,7 @@ export default function Home() {
               greeting="Goodbye"
               emoji="🍂"
               message="Thanks for the lessons, blessings and good times."
-              image="http://localhost:4000/assets/man-on-beach-autumn-sunset.jpg"
+              image="/assets/man-on-beach-autumn-sunset.jpg"
               bgGradient="from-orange-500 via-orange-400 to-yellow-300"
             />
 
@@ -65,9 +65,9 @@ export default function Home() {
               greeting="HELLO"
               emoji="❄️"
               message="I'm ready for you!"
-              image="http://localhost:4000/assets/man-on-beach-winter-cool-tones.jpg"
+              image="/assets/man-on-beach-winter-cool-tones.jpg"
               bgGradient="from-purple-400 via-slate-400 to-blue-300"
-              songsUrl="http://localhost:4000/assets/winter.mp3"
+              songsUrl="/assets/winter.mp3"
             />
           </div>
         </div>
